@@ -25682,7 +25682,7 @@
       <option name="activateTrigger" value="triggerAttachmentMacedoniaGetsGeneralBack:1:false:false:false:false"/>
       <option name="text" value="ITALIA_RANSOM"/>
       <option name="attemptsPerTurn" value="6"/>
-      <option name="costPU" value="50"/>
+      <option name="costResources" value="PUs" count="50"/>
     </attachment>
     <attachment name="triggerAttachmentMacedoniaGetsGeneralBack" attachTo="Macedonia" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="placement" value="Macedonia:general" count="1"/>
@@ -25698,7 +25698,7 @@
       <option name="activateTrigger" value="triggerAttachmentMacedoniaGetsGeneralBack:1:false:false:false:false"/>
       <option name="text" value="GALATIA_RANSOM"/>
       <option name="attemptsPerTurn" value="6"/>
-      <option name="costPU" value="50"/>
+      <option name="costResources" value="PUs" count="50"/>
     </attachment>
     <attachment name="triggerAttachmentMacedoniaGetsGeneralBack" attachTo="Macedonia" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="placement" value="Macedonia:general" count="1"/>
@@ -25714,7 +25714,7 @@
       <option name="activateTrigger" value="triggerAttachmentMacedoniaGetsGeneralBack:1:false:false:false:false"/>
       <option name="text" value="EGYPTUS_RANSOM"/>
       <option name="attemptsPerTurn" value="6"/>
-      <option name="costPU" value="50"/>
+      <option name="costResources" value="PUs" count="50"/>
     </attachment>
     <attachment name="triggerAttachmentMacedoniaGetsGeneralBack" attachTo="Macedonia" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="placement" value="Macedonia:general" count="1"/>
@@ -25730,7 +25730,7 @@
       <option name="activateTrigger" value="triggerAttachmentMacedoniaGetsGeneralBack:1:false:false:false:false"/>
       <option name="text" value="NUMIDIA_RANSOM"/>
       <option name="attemptsPerTurn" value="6"/>
-      <option name="costPU" value="50"/>
+      <option name="costResources" value="PUs" count="50"/>
     </attachment>
     <attachment name="triggerAttachmentMacedoniaGetsGeneralBack" attachTo="Macedonia" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="placement" value="Macedonia:general" count="1"/>
@@ -25746,7 +25746,7 @@
       <option name="activateTrigger" value="triggerAttachmentMacedoniaGetsGeneralBack:1:false:false:false:false"/>
       <option name="text" value="HISPANIA_RANSOM"/>
       <option name="attemptsPerTurn" value="6"/>
-      <option name="costPU" value="50"/>
+      <option name="costResources" value="PUs" count="50"/>
     </attachment>
     <attachment name="triggerAttachmentItaliaGetsGeneralBack" attachTo="Italia" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="placement" value="Italia:general" count="1"/>
@@ -25762,7 +25762,7 @@
       <option name="activateTrigger" value="triggerAttachmentItaliaGetsGeneralBack:1:false:false:false:false"/>
       <option name="text" value="MACEDONIA_RANSOM"/>
       <option name="attemptsPerTurn" value="6"/>
-      <option name="costPU" value="50"/>
+      <option name="costResources" value="PUs" count="50"/>
     </attachment>
     <attachment name="triggerAttachmentItaliaGetsGeneralBack" attachTo="Italia" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="placement" value="Italia:general" count="1"/>
@@ -25778,7 +25778,7 @@
       <option name="activateTrigger" value="triggerAttachmentItaliaGetsGeneralBack:1:false:false:false:false"/>
       <option name="text" value="GALATIA_RANSOM"/>
       <option name="attemptsPerTurn" value="6"/>
-      <option name="costPU" value="50"/>
+      <option name="costResources" value="PUs" count="50"/>
     </attachment>
     <attachment name="triggerAttachmentItaliaGetsGeneralBack" attachTo="Italia" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="placement" value="Italia:general" count="1"/>
@@ -25794,7 +25794,7 @@
       <option name="activateTrigger" value="triggerAttachmentItaliaGetsGeneralBack:1:false:false:false:false"/>
       <option name="text" value="EGYPTUS_RANSOM"/>
       <option name="attemptsPerTurn" value="6"/>
-      <option name="costPU" value="50"/>
+      <option name="costResources" value="PUs" count="50"/>
     </attachment>
     <attachment name="triggerAttachmentItaliaGetsGeneralBack" attachTo="Italia" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="placement" value="Italia:general" count="1"/>
@@ -25810,7 +25810,7 @@
       <option name="activateTrigger" value="triggerAttachmentItaliaGetsGeneralBack:1:false:false:false:false"/>
       <option name="text" value="NUMIDIA_RANSOM"/>
       <option name="attemptsPerTurn" value="6"/>
-      <option name="costPU" value="50"/>
+      <option name="costResources" value="PUs" count="50"/>
     </attachment>
     <attachment name="triggerAttachmentItaliaGetsGeneralBack" attachTo="Italia" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="placement" value="Italia:general" count="1"/>
@@ -25826,7 +25826,7 @@
       <option name="activateTrigger" value="triggerAttachmentItaliaGetsGeneralBack:1:false:false:false:false"/>
       <option name="text" value="HISPANIA_RANSOM"/>
       <option name="attemptsPerTurn" value="6"/>
-      <option name="costPU" value="50"/>
+      <option name="costResources" value="PUs" count="50"/>
     </attachment>
     <attachment name="triggerAttachmentGalatiaGetsGeneralBack" attachTo="Galatia" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="placement" value="Galatia:general" count="1"/>
@@ -25842,7 +25842,7 @@
       <option name="activateTrigger" value="triggerAttachmentGalatiaGetsGeneralBack:1:false:false:false:false"/>
       <option name="text" value="MACEDONIA_RANSOM"/>
       <option name="attemptsPerTurn" value="6"/>
-      <option name="costPU" value="50"/>
+      <option name="costResources" value="PUs" count="50"/>
     </attachment>
     <attachment name="triggerAttachmentGalatiaGetsGeneralBack" attachTo="Galatia" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="placement" value="Galatia:general" count="1"/>
@@ -25858,7 +25858,7 @@
       <option name="activateTrigger" value="triggerAttachmentGalatiaGetsGeneralBack:1:false:false:false:false"/>
       <option name="text" value="ITALIA_RANSOM"/>
       <option name="attemptsPerTurn" value="6"/>
-      <option name="costPU" value="50"/>
+      <option name="costResources" value="PUs" count="50"/>
     </attachment>
     <attachment name="triggerAttachmentGalatiaGetsGeneralBack" attachTo="Galatia" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="placement" value="Galatia:general" count="1"/>
@@ -25874,7 +25874,7 @@
       <option name="activateTrigger" value="triggerAttachmentGalatiaGetsGeneralBack:1:false:false:false:false"/>
       <option name="text" value="EGYPTUS_RANSOM"/>
       <option name="attemptsPerTurn" value="6"/>
-      <option name="costPU" value="50"/>
+      <option name="costResources" value="PUs" count="50"/>
     </attachment>
     <attachment name="triggerAttachmentGalatiaGetsGeneralBack" attachTo="Galatia" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="placement" value="Galatia:general" count="1"/>
@@ -25890,7 +25890,7 @@
       <option name="activateTrigger" value="triggerAttachmentGalatiaGetsGeneralBack:1:false:false:false:false"/>
       <option name="text" value="NUMIDIA_RANSOM"/>
       <option name="attemptsPerTurn" value="6"/>
-      <option name="costPU" value="50"/>
+      <option name="costResources" value="PUs" count="50"/>
     </attachment>
     <attachment name="triggerAttachmentGalatiaGetsGeneralBack" attachTo="Galatia" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="placement" value="Galatia:general" count="1"/>
@@ -25906,7 +25906,7 @@
       <option name="activateTrigger" value="triggerAttachmentGalatiaGetsGeneralBack:1:false:false:false:false"/>
       <option name="text" value="HISPANIA_RANSOM"/>
       <option name="attemptsPerTurn" value="6"/>
-      <option name="costPU" value="50"/>
+      <option name="costResources" value="PUs" count="50"/>
     </attachment>
     <attachment name="triggerAttachmentEgyptusGetsGeneralBack" attachTo="Egyptus" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="placement" value="Egyptus:general" count="1"/>
@@ -25922,7 +25922,7 @@
       <option name="activateTrigger" value="triggerAttachmentEgyptusGetsGeneralBack:1:false:false:false:false"/>
       <option name="text" value="MACEDONIA_RANSOM"/>
       <option name="attemptsPerTurn" value="6"/>
-      <option name="costPU" value="50"/>
+      <option name="costResources" value="PUs" count="50"/>
     </attachment>
     <attachment name="triggerAttachmentEgyptusGetsGeneralBack" attachTo="Egyptus" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="placement" value="Egyptus:general" count="1"/>
@@ -25938,7 +25938,7 @@
       <option name="activateTrigger" value="triggerAttachmentEgyptusGetsGeneralBack:1:false:false:false:false"/>
       <option name="text" value="ITALIA_RANSOM"/>
       <option name="attemptsPerTurn" value="6"/>
-      <option name="costPU" value="50"/>
+      <option name="costResources" value="PUs" count="50"/>
     </attachment>
     <attachment name="triggerAttachmentEgyptusGetsGeneralBack" attachTo="Egyptus" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="placement" value="Egyptus:general" count="1"/>
@@ -25954,7 +25954,7 @@
       <option name="activateTrigger" value="triggerAttachmentEgyptusGetsGeneralBack:1:false:false:false:false"/>
       <option name="text" value="GALATIA_RANSOM"/>
       <option name="attemptsPerTurn" value="6"/>
-      <option name="costPU" value="50"/>
+      <option name="costResources" value="PUs" count="50"/>
     </attachment>
     <attachment name="triggerAttachmentEgyptusGetsGeneralBack" attachTo="Egyptus" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="placement" value="Egyptus:general" count="1"/>
@@ -25970,7 +25970,7 @@
       <option name="activateTrigger" value="triggerAttachmentEgyptusGetsGeneralBack:1:false:false:false:false"/>
       <option name="text" value="NUMIDIA_RANSOM"/>
       <option name="attemptsPerTurn" value="6"/>
-      <option name="costPU" value="50"/>
+      <option name="costResources" value="PUs" count="50"/>
     </attachment>
     <attachment name="triggerAttachmentEgyptusGetsGeneralBack" attachTo="Egyptus" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="placement" value="Egyptus:general" count="1"/>
@@ -25986,7 +25986,7 @@
       <option name="activateTrigger" value="triggerAttachmentEgyptusGetsGeneralBack:1:false:false:false:false"/>
       <option name="text" value="HISPANIA_RANSOM"/>
       <option name="attemptsPerTurn" value="6"/>
-      <option name="costPU" value="50"/>
+      <option name="costResources" value="PUs" count="50"/>
     </attachment>
     <attachment name="triggerAttachmentNumidiaGetsGeneralBack" attachTo="Numidia" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="placement" value="Numidia:general" count="1"/>
@@ -26002,7 +26002,7 @@
       <option name="activateTrigger" value="triggerAttachmentNumidiaGetsGeneralBack:1:false:false:false:false"/>
       <option name="text" value="MACEDONIA_RANSOM"/>
       <option name="attemptsPerTurn" value="6"/>
-      <option name="costPU" value="50"/>
+      <option name="costResources" value="PUs" count="50"/>
     </attachment>
     <attachment name="triggerAttachmentNumidiaGetsGeneralBack" attachTo="Numidia" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="placement" value="Numidia:general" count="1"/>
@@ -26018,7 +26018,7 @@
       <option name="activateTrigger" value="triggerAttachmentNumidiaGetsGeneralBack:1:false:false:false:false"/>
       <option name="text" value="ITALIA_RANSOM"/>
       <option name="attemptsPerTurn" value="6"/>
-      <option name="costPU" value="50"/>
+      <option name="costResources" value="PUs" count="50"/>
     </attachment>
     <attachment name="triggerAttachmentNumidiaGetsGeneralBack" attachTo="Numidia" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="placement" value="Numidia:general" count="1"/>
@@ -26034,7 +26034,7 @@
       <option name="activateTrigger" value="triggerAttachmentNumidiaGetsGeneralBack:1:false:false:false:false"/>
       <option name="text" value="GALATIA_RANSOM"/>
       <option name="attemptsPerTurn" value="6"/>
-      <option name="costPU" value="50"/>
+      <option name="costResources" value="PUs" count="50"/>
     </attachment>
     <attachment name="triggerAttachmentNumidiaGetsGeneralBack" attachTo="Numidia" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="placement" value="Numidia:general" count="1"/>
@@ -26050,7 +26050,7 @@
       <option name="activateTrigger" value="triggerAttachmentNumidiaGetsGeneralBack:1:false:false:false:false"/>
       <option name="text" value="EGYPTUS_RANSOM"/>
       <option name="attemptsPerTurn" value="6"/>
-      <option name="costPU" value="50"/>
+      <option name="costResources" value="PUs" count="50"/>
     </attachment>
     <attachment name="triggerAttachmentNumidiaGetsGeneralBack" attachTo="Numidia" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="placement" value="Numidia:general" count="1"/>
@@ -26066,7 +26066,7 @@
       <option name="activateTrigger" value="triggerAttachmentNumidiaGetsGeneralBack:1:false:false:false:false"/>
       <option name="text" value="HISPANIA_RANSOM"/>
       <option name="attemptsPerTurn" value="6"/>
-      <option name="costPU" value="50"/>
+      <option name="costResources" value="PUs" count="50"/>
     </attachment>
     <attachment name="triggerAttachmentHispaniaGetsGeneralBack" attachTo="Hispania" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="placement" value="Hispania:general" count="1"/>
@@ -26082,7 +26082,7 @@
       <option name="activateTrigger" value="triggerAttachmentHispaniaGetsGeneralBack:1:false:false:false:false"/>
       <option name="text" value="MACEDONIA_RANSOM"/>
       <option name="attemptsPerTurn" value="6"/>
-      <option name="costPU" value="50"/>
+      <option name="costResources" value="PUs" count="50"/>
     </attachment>
     <attachment name="triggerAttachmentHispaniaGetsGeneralBack" attachTo="Hispania" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="placement" value="Hispania:general" count="1"/>
@@ -26098,7 +26098,7 @@
       <option name="activateTrigger" value="triggerAttachmentHispaniaGetsGeneralBack:1:false:false:false:false"/>
       <option name="text" value="ITALIA_RANSOM"/>
       <option name="attemptsPerTurn" value="6"/>
-      <option name="costPU" value="50"/>
+      <option name="costResources" value="PUs" count="50"/>
     </attachment>
     <attachment name="triggerAttachmentHispaniaGetsGeneralBack" attachTo="Hispania" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="placement" value="Hispania:general" count="1"/>
@@ -26114,7 +26114,7 @@
       <option name="activateTrigger" value="triggerAttachmentHispaniaGetsGeneralBack:1:false:false:false:false"/>
       <option name="text" value="GALATIA_RANSOM"/>
       <option name="attemptsPerTurn" value="6"/>
-      <option name="costPU" value="50"/>
+      <option name="costResources" value="PUs" count="50"/>
     </attachment>
     <attachment name="triggerAttachmentHispaniaGetsGeneralBack" attachTo="Hispania" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="placement" value="Hispania:general" count="1"/>
@@ -26130,7 +26130,7 @@
       <option name="activateTrigger" value="triggerAttachmentHispaniaGetsGeneralBack:1:false:false:false:false"/>
       <option name="text" value="EGYPTUS_RANSOM"/>
       <option name="attemptsPerTurn" value="6"/>
-      <option name="costPU" value="50"/>
+      <option name="costResources" value="PUs" count="50"/>
     </attachment>
     <attachment name="triggerAttachmentHispaniaGetsGeneralBack" attachTo="Hispania" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
       <option name="placement" value="Hispania:general" count="1"/>
@@ -26146,7 +26146,7 @@
       <option name="activateTrigger" value="triggerAttachmentHispaniaGetsGeneralBack:1:false:false:false:false"/>
       <option name="text" value="NUMIDIA_RANSOM"/>
       <option name="attemptsPerTurn" value="6"/>
-      <option name="costPU" value="50"/>
+      <option name="costResources" value="PUs" count="50"/>
     </attachment>
     <!-- Prisoner exchange -->
     <attachment name="triggerAttachmentMacedoniaGivesBackItaliaGeneral" attachTo="Macedonia" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
